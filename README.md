@@ -1,2 +1,2 @@
 # juniperistic.github.io
-The backend of my website.
+This is the backend of my portfolio website.
