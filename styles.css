@@ -13,11 +13,12 @@
     {
         background: rgb(186, 119, 212);
         padding: 20px;
+        
     }
 
     section
     {
-        background: white;
+        background: pink;
         color: gray;
         padding: 20px;
         display: flex;
